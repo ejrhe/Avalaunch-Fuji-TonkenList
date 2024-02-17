@@ -25,7 +25,8 @@
             "address": "0x3454BA777C09a3Ba18754eFd806ec8341646a7aD",
             "decimals": 18,
             "name": "Wrapped Ether",
-            "symbol": "WETH.e"
+            "symbol": "WETH.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
         }
     ],
     "timestamp": "2022-07-07T00:09:20+00:00"
