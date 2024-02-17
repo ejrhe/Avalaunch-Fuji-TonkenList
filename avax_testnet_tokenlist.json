@@ -11,9 +11,9 @@
         "major": 5,
         "minor": 11,
         "patch": 1
-},
-"tokens":[
-    {
+    },
+    "tokens": [
+       {
         "chainId": 43113,
         "address": "0x0f2071079315Ba5a1c6d5b532a01a132c157AC83",
         "decimals": 8,
@@ -26,8 +26,7 @@
         "decimals": 18,
         "name": "Wrapped Ether",
         "symbol": "WETH.e"
-    }
-],
-  "timestamp": "2022-07-07T00:09:20+00:00"
+    } 
+    ],
+    "timestamp": "2022-07-07T00:09:20+00:00"
 }
-
