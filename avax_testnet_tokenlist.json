@@ -29,6 +29,14 @@
             "name": "Wrapped Ether",
             "symbol": "WETH.e",
             "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0x5C7f5cA94419A446002b16aA4B335221300E86E3",
+            "decimals": 18,
+            "name": "YetiSwap",
+            "symbol": "YTS",
+            "logoURI": "https://raw.githubusercontent.com/YetiSwap/yetiswap.app/master/src/assets/image/YTSCoin.png"
         }
     ]
 }
