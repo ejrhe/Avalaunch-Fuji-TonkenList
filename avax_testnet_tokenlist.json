@@ -12,6 +12,6 @@
         "decimals": 18,
         "name": "Wrapped Ether",
         "symbol": "WETH.e"
-    },
+    }
 ]
 
