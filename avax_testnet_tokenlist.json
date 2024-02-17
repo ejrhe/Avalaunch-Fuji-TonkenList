@@ -1,13 +1,13 @@
 "tokens":[
     {
-        "chainId": "43113",
+        "chainId": 43113,
         "address": "0x0f2071079315Ba5a1c6d5b532a01a132c157AC83",
         "decimals": 8,
         "name": "Bitcoin",
         "symbol": "BTC.b"
     },
     {
-        "chainId": "43113",
+        "chainId": 43113,
         "address": "0x3454BA777C09a3Ba18754eFd806ec8341646a7aD",
         "decimals": 18,
         "name": "Wrapped Ether",
